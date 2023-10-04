@@ -52,7 +52,6 @@ A aplicação estará disponível no endereço local: `http://localhost:3000`. S
 -   Emitir extrato bancário: esse endpoint lista as transações realizadas de uma conta específica.  
 ##### `GET` `/contas/extrato?numero_conta=123&senha=123`  
 
-Para maior comodidade, também é possível importar o arquivo: `Insomnia_Desafio_Modulo2` no Insomnia e as rotas já estarão criadas para teste do projeto. 
 
 Rotas importadas no Insomnia:  
 ![](./img/insomnia.png)  
